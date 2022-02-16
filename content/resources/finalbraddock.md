@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'Assignment 3: Design Study and Final Report.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/4-183-sustainable-design-and-technology-research-workshop-spring-2004/461c3d895aee7fa1bd59513c1d82f3e6_finalbraddock.pdf
+file: /media/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/461c3d895aee7fa1bd59513c1d82f3e6_finalbraddock.pdf
 file_type: application/pdf
+learning_resource_types:
+- Projects
+ocw_type: OCWFile
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Document
 title: finalbraddock.pdf
 uid: 461c3d89-5aee-7fa1-bd59-513c1d82f3e6
