@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 794342d5-220c-623f-a1e3-8a55b1a3ad78
 resourcetype: Document
 title: finalmeguro.pdf
 uid: 9dd817d7-9c3f-db08-297f-c8b9c9d903fd

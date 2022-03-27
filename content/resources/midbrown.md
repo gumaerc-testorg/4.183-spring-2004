@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 794342d5-220c-623f-a1e3-8a55b1a3ad78
 resourcetype: Document
 title: midbrown.pdf
 uid: 6201927f-e242-e428-6625-7f45a5a7db3b

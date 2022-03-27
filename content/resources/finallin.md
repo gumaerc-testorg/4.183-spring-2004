@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 794342d5-220c-623f-a1e3-8a55b1a3ad78
 resourcetype: Document
 title: finallin.pdf
 uid: ad9a548c-35cc-411f-422a-748e0d72844e

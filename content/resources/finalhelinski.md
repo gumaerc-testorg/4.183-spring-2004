@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 794342d5-220c-623f-a1e3-8a55b1a3ad78
 resourcetype: Document
 title: finalhelinski.pdf
 uid: 7b109b51-08a1-d55f-e246-a5110c8ede7a

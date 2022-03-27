@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 794342d5-220c-623f-a1e3-8a55b1a3ad78
 resourcetype: Document
 title: midlin.pdf
 uid: d8639191-1a24-a8af-0145-9522cb249235
