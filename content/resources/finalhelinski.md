@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment 3: Design Study and Final Report.'
-file: /media/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/7b109b5108a1d55fe246a5110c8ede7a_finalhelinski.pdf
+file: /courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/7b109b5108a1d55fe246a5110c8ede7a_finalhelinski.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: finalhelinski.pdf
 uid: 7b109b51-08a1-d55f-e246-a5110c8ede7a
 ---
+Assignment 3: Design Study and Final Report.
+
