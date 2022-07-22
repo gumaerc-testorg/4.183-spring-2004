@@ -5,6 +5,7 @@ file: /courses/4-183-sustainable-design-and-technology-research-workshop-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midhelinski.pdf
 uid: f47d3741-5b13-6a6b-c66b-babcbfa57530
 ---
 Assignment 2: Case Study.
-

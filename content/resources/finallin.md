@@ -5,6 +5,7 @@ file: /courses/4-183-sustainable-design-and-technology-research-workshop-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: finallin.pdf
 uid: ad9a548c-35cc-411f-422a-748e0d72844e
 ---
 Assignment 3: Design Study and Final Report.
-

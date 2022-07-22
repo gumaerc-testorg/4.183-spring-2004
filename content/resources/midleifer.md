@@ -5,6 +5,7 @@ file: /courses/4-183-sustainable-design-and-technology-research-workshop-spring-
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: midleifer.pdf
 uid: 97bcfb07-2fe4-dd10-0bb0-10a84fc4c60f
 ---
 Assignment 2: Case Study.
-
