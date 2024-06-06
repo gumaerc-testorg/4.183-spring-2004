@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignment 3: Design Study and Final Report.'
 file: /courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/408f0a5a60e766de6f0066af6faeab65_finalbrown.pdf
+file_size: 887039
 file_type: application/pdf
 learning_resource_types:
 - Projects

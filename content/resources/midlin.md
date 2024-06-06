@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignment 2: Case Study.'
 file: /courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/d86391911a24a8af01459522cb249235_midlin.pdf
+file_size: 128471
 file_type: application/pdf
 learning_resource_types:
 - Projects
