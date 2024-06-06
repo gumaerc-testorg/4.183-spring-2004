@@ -2,6 +2,7 @@
 content_type: resource
 description: Research and presentation assignment.
 file: /courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/ee111d60cdad22d7a71a4b8466ab1ee3_assn1.pdf
+file_size: 11114
 file_type: application/pdf
 learning_resource_types:
 - Assignments
