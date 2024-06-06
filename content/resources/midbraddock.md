@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Assignment 2: Case Study.'
 file: /courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/72899c1e6a9afa65bd893f58d9a51e46_midbraddock.pdf
+file_size: 132309
 file_type: application/pdf
 learning_resource_types:
 - Projects
