@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Report and presentation assignment.
-file: /ol-ocw-studio-app/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/a2756e074dfa0f279b0ec274ab105cd8_assn3.pdf
+file: /courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/a2756e074dfa0f279b0ec274ab105cd8_assn3.pdf
 file_size: 11365
 file_type: application/pdf
 learning_resource_types:

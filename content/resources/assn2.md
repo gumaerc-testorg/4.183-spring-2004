@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Assignment.
-file: /ol-ocw-studio-app/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/e43c04e5fcce9b359dff75ef36e64153_assn2.pdf
+file: /courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/e43c04e5fcce9b359dff75ef36e64153_assn2.pdf
 file_size: 10629
 file_type: application/pdf
 learning_resource_types:
