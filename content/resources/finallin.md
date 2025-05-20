@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Assignment 3: Design Study and Final Report.'
-file: /ol-ocw-studio-app/courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/ad9a548c35cc411f422a748e0d72844e_finallin.pdf
+file: /courses/4-183-sustainable-design-and-technology-research-workshop-spring-2004/ad9a548c35cc411f422a748e0d72844e_finallin.pdf
 file_size: 82454
 file_type: application/pdf
 learning_resource_types:
